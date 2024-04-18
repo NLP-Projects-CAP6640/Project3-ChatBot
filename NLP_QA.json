@@ -1,0 +1,92 @@
+{
+	"Questions": [
+		{
+			"Question": "What is lemmatization?",
+			"Answer": [
+				"Lemmatization is a text pre-processing technique used in natural language processing (NLP) models to break a word down to its root meaning to identify similarities",
+				"Text pre-processing technique that breaks down a word into its root meaning.",
+				"The process of taking a word and converting it to its lemma, the original form of the word without inflections."
+			]
+		},
+		{
+			"Question": "What is text classification?",
+			"Answer": [
+				"Text classification is a machine learning technique that assigns a set of predefined categories to open-ended text.",
+				"Text classification is a machine learning technique that categorizes open-ended text into predefined categories.",
+				"Text classification is training a model to be able to label a given text to one of multiple labels."
+			]
+		},
+		{
+			"Question": "Why are chatbots used?",
+			"Answer": [
+				"Chatbots are typically used in the commercial sector to provide answers to common questions about products or services. ",
+				"Chatbots are conversational tools that can perform routine tasks efficiently.",
+				"Chatbots allow for more natural interactions with a language model, making it easier to interact with them."
+			]
+		},
+		{
+			"Question": "What does semantic role labeling do?",
+			"Answer": [
+				"assigns labels to words or phrases in a sentence that indicates their semantic role in the sentence, such as that of an agent, goal, or result. ",
+				"Semantic role labeling is a NLP technique that assigns labels to words or phrases in a sentence. ",
+				"Semantic Role Labeling assigns meanings to certain words in a sentence in order to derive meaning from a text."
+			]
+		},
+		{
+			"Question": "What is the point of topic modeling?",
+			"Answer": [
+				"Topic modeling attempts to find the main idea of a set of data based on terms that most frequently appear. It essentially enables you to look through multiple topics and organize, understand and summarize them at scale",
+				"The goal is to identify groups of words that represent distinct topics, such as 'dog' and 'bone' appearing more often in documents about dogs.",
+				"Topic modelling allows for easy identification of what elements of a corpus are most important."
+			]
+		},
+		{
+			"Question": "What is a transformer?",
+			"Answer": [
+				"A Transformer is a type of LLM first popularized by the research paper 'Attention is all you need' which proposes that when employed properly, Attention mechanisms within LLMs can lead to faster, and more capable LLMs.",
+				"Transformers are a type of neural network architecture that transforms or changes an input sequence into an output sequence.",
+				"A transformer is an structure in language models meant to take in a text and assign attention to word."
+			]
+		},
+		{
+			"Question": "How is a model trained?",
+			"Answer": [
+				"Models are typically trained on large Datasets of relevant information, either supervised or unsupervised. ",
+				"Running an algorithm on a dataset (training data) and optimizing the algorithm to find certain patterns or outputs.",
+				"Usually, a model is given a fraction of a dataset meant specifically for training, the model iterates trying to predict something about the training dataset."
+			]
+		},
+		{
+			"Question": "How is data split between a training set and a testing set?",
+			"Answer": [
+				"Training loss should be minimized to help improve model accuracy. ",
+				"Performance Improvement: Minimizing the loss during training helps improve the model's performance. ",
+				"Training loss represents the amount of errors when the model uses the training set. A lower training loss means less errors."
+			]
+		},
+		{
+			"Question": "Why do words have a vector form?",
+			"Answer": [
+				"Words are typically encoded in vector form such that words that are closer in semantic meaning are closer together in vector space. This helps with knowledge extraction. ",
+				"So that words that are close in vector space are likely to have similar meanings",
+				"Words have a vector form so they could be positioned in a vector space. Similar word vectors would be close to each other, and certain combination of word vectors would sum up to a vector similar to a word meaning the combination of the two."
+			]
+		},
+		{
+			"Question": "Why is entity extraction used?",
+			"Answer": [
+				"Entity extraction is used for various purposes, such as identifying names, locations, date/time references, and other entities from text. ",
+				"To identify data and information from text, such as names, locations, and date/time references. The extracted information is then organized and labeled to make it easier to search and analyze.",
+				"Entity extraction allows for the subjects of a text to be found and organised by their relationships, allowing for an easy way to understand the text."
+			]
+		},
+		{
+			"Question": "How does word embedding work?",
+			"Answer": [
+				"Word embedding is where individual words are represented as real-valued vectors in a lower-dimensional space to captures inter-word meanings and relationships. ",
+				"Word Embeddings in NLP is a technique where individual words are represented as real-valued vectors in a lower-dimensional space and captures inter-word semantics.",
+				"Word embedding works by giving each word a vector so that similar meaning words have the similar vectors."
+			]
+		}
+	]
+}
